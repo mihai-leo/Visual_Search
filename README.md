@@ -50,5 +50,5 @@ Display:
   draw: Draws all cells and grid lines.
   show_popup: Displays the control instructions on a semi-transparent overlay.
 
-Sorces:
+Sources:
 https://www.youtube.com/watch?v=JtiK0DOeI4A
