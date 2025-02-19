@@ -23,6 +23,7 @@ Controls
   A: Execute A* Search.
   U: Execute Uniform Cost Search.
   J: Execute Dijkstra's Algorithm.
+![image](https://github.com/user-attachments/assets/06388355-111f-438c-9db4-85d127752bf0)
 
   
 Code Overview
